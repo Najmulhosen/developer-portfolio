@@ -2,7 +2,6 @@
   margin: 0;
   font-family: "Open Sans", sans-serif;
 }
-
 .text-primary {
   color: #fd6e0a;
 }
@@ -40,7 +39,7 @@ nav li {
   list-style: none;
   margin-left: 50px;
 }
-/* banner styles*/
+/* banner style*/
 .banner {
   display: flex;
   align-items: center;
