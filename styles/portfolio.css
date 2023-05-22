@@ -18,7 +18,7 @@
 }
 .header {
   background-color: #fff8f3;
-  background-image: url(../images/b.png), url(../images/Developer.png);
+  background-image: url(../images/b.png), url(../images/developer.png);
   background-repeat: no-repeat;
   background-position: bottom right, left;
 }
